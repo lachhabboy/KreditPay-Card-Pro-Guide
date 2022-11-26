@@ -1,0 +1,57 @@
+[{
+		"name": "PRESENTATION",
+		"description": "Thank you for choosing Money Pro and welcome!
+                    Money Pro is a personal finance management application with powerful and easy-to-use features. Money Pro is the next generation of the Money app (over 2 million downloads worldwide).",
+		"img": "https://money.pro/fr/img/preambule_money_pro.jpg"
+	},
+	{
+		"name": "ACCOUNTS",
+		"description": "The first thing to do with the app is to enter your data in the balance sheet (Balance tab). A balance sheet is a kind of personal financial report. It gives you an overview of your resources at a given point in time. It is a summary of your assets (what you own) and liabilities (what you owe). Yellow represents debts, blue represents money.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_balance.jpg"
+	}, {
+		"name": "Add accounts",
+		"description": "To add an account, tap/click Edit > Add and select the account type.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_balance_edit.jpg"
+	}, {
+		"name": "Importer des fichiers OFX et CSV",
+		"description": "You can download your bank statements from your bank's website (supported file formats: .ofx and .csv).",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_balance_import.jpg"
+	}, {
+		"name": "Bank Account Reconciliation",
+		"description": "You can enter transactions and approve them later. The available balance and the approved balance are calculated automatically. You can use account reconciliation for each of your accounts. Go to the Balance tab, tap/click Edit, select the account you want and enable the Reconcile option ",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_balance_reconcile.jpg"
+	},{
+		"name": "Delete an account",
+		"description": "To delete an account, go to Balance, tap/click Edit, select an account and then Delete from the menu that opens. The app will offer you to Hide or Remove Account.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_balance_delete.jpg"
+	},
+	{
+		"name": "BUDGETS",
+		"description": "Money Pro can handle all your budgeting needs. The Budget feature is one of the main tools to control your expenses and help you save for an upcoming major purchase, pay off your debts or accumulate resources.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_budget.jpg"
+	}, {
+		"name": "Categories and subcategories",
+		"description": "To ensure the effectiveness of this tool, first evaluate the structure of your budget. Think about all the categories you can sort your expenses with. Note that app categories can have a dual hierarchical structure. There are categories and subcategories. Remember, once you've set up a budget, we recommend using the same categories to record your expenses.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_budget_categories.jpg"
+	}, {
+		"name": "EXPENDITURES",
+		"description": "By taking a look at the Today section you instantly know how many trades have matured or are out of date. The color code allows you to identify the status of transactions:
+                    transactions whose maturity has passed are in orange,
+                    the planned transactions are blank,
+                    Paid transactions are in green.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_today.jpg"
+	}, {
+		"name": "Create a transaction",
+		"description": "Go to the Today section, tap/click + at the top right.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_bills_add.jpg"
+	},
+	{
+		"name": "Currency Converter",
+		"description": "When you enter an amount when creating a transaction or planning a budget, you can use the built-in currency converter. The converter helps you use multiple currencies. Tap the currency button and select the currency you want to convert. Enter the amount in the selected currency. This amount is automatically converted to the currency of the account selected for the transaction.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_bills_currency_converter.jpg"
+	}, {
+		"name": "COMMERCE",
+		"description": "Money Pro provides you with detailed information about your personal finances through various in-depth reports presented below. Go to Report and select the report you need. By default, the report is created for the current month. You can change the start and end dates directly on the form.",
+		"img": "https://money.pro/fr/img/moneypro_guide_iphone_reports.jpg"
+	}
+]
